@@ -1,4 +1,4 @@
-# Project Title: **Bad Bunny Song Data Analysis Using Last.fm API**
+# **Bad Bunny Song Data Analysis Using Last.fm API**
 
 ## **Project Overview**
 This project aims to collect, process, and analyze data on Bad Bunny’s songs using the Last.fm API. The primary goal is to extract as much information as possible on all of Bad Bunny's tracks, including track details and relevant statistics (such as play counts, listeners, etc.). This data will be used to perform exploratory analysis and share insights.
