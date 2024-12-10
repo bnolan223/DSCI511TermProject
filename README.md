@@ -34,7 +34,7 @@ The Last.fm API requires the creation of an API key to access data. Usage of thi
    - Collects data on all of Bad Bunny's available tracks.
    - Processes raw data into a structured format (CSV) for analysis.
 
-**2. `data/`:**
+**2. `bad_bunny_tracks.csv`:**
    - Contains the output CSV file with all tracks and metadata.
 
 **3. `README.md`:**
